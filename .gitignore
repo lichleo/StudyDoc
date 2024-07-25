@@ -16,3 +16,33 @@ bin-release/
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
+
+*__pycache__/
+.vscode/settings.json
+.vscode/launch.json
+**/*.bak
+**/fw_load/UpdatePending.txt
+/.vs
+
+# general things to ignore
+build/
+
+dist/
+*.egg-info/
+*.egg
+*.py[cod]
+__pycache__/
+*.so
+*~
+
+# due to using tox and pytest
+.tox
+.cache
+
+# debug is my debug-venv-dir
+debug
+debug/
+
+# docs build is build test directory
+docs/build
+docs/build/

@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'python学习笔记'
-copyright = '2024, lichleo'
-author = 'lichleo'
+project = '学习笔记'
+copyright = '2024, lianhaitao'
+author = 'lianhaitao'
 release = 'v1.00'
 
 # -- General configuration ---------------------------------------------------
