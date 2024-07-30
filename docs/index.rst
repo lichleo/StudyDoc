@@ -25,7 +25,7 @@
    :caption: 目录
 
    reStructuredText 
-   正则表达式
+   re
    hotkeys
    scripts
    plugins
