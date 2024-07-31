@@ -26,7 +26,7 @@
 
    reStructuredText 
    re
-   hotkeys
+   科学运算
    scripts
    plugins
    updatehistory
